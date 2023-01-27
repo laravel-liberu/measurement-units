@@ -1,35 +1,35 @@
 {
-    "name": "laravel-enso/measurement-units",
+    "name": "cgdsoftware/measurement-units",
     "type": "library",
     "description": "Measurement units dependency for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "cgdsoftware",
         "measurement-units",
         "units"
     ],
-    "homepage": "https://github.com/laravel-enso/measurement-units",
+    "homepage": "https://github.com/cgdsoftware/measurement-units",
     "license": "MIT",
     "authors": [
         {
             "name": "Mihai Ocneanu",
             "email": "mihai.ocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://cgdsoftware.com",
             "role": "Developer"
         },
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://cgdsoftware.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "laravel-enso/core": "^8.0",
-        "laravel-enso/forms": "^4.0",
-        "laravel-enso/helpers": "^2.0",
-        "laravel-enso/migrator": "^2.1",
-        "laravel-enso/select": "^4.0",
-        "laravel-enso/tables": "^4.0"
+        "cgdsoftware/core": "^8.0",
+        "cgdsoftware/forms": "^4.0",
+        "cgdsoftware/helpers": "^2.0",
+        "cgdsoftware/migrator": "^2.1",
+        "cgdsoftware/select": "^4.0",
+        "cgdsoftware/tables": "^4.0"
     },
     "autoload": {
         "psr-4": {
