@@ -6,9 +6,9 @@
 [![Total Downloads](https://poser.pugx.org/laravel-enso/measurement-units/downloads)](https://packagist.org/packages/laravel-enso/measurement-units)
 [![Latest Stable Version](https://poser.pugx.org/laravel-enso/measurement-units/version)](https://packagist.org/packages/laravel-enso/measurement-units)
 
-Measurement units dependency for [Laravel Enso](https://github.com/laravel-enso/enso)
+Measurement units dependency for [Laravel Liberu](https://github.com/laravel-enso/enso)
 
-This package works exclusively within the [Enso](https://github.com/laravel-enso/enso) ecosystem.
+This package works exclusively within the [Liberu](https://github.com/laravel-enso/enso) ecosystem.
 
 The front end assets that utilize this api are present in the [measurement-units](https://github.com/enso-ui/measurement-units) package.
 
