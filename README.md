@@ -1,16 +1,16 @@
 # Measurement Units
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/06e2805caccc4dc09b7c45899e7080f0)](https://www.codacy.com/gh/laravel-enso/measurement-units?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=laravel-enso/measurement-units&amp;utm_campaign=Badge_Grade) 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/06e2805caccc4dc09b7c45899e7080f0)](https://www.codacy.com/gh/laravel-liberu/measurement-units?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=laravel-liberu/measurement-units&amp;utm_campaign=Badge_Grade) 
 [![StyleCI](https://github.styleci.io/repos/85624363/shield?branch=master)](https://github.styleci.io/repos/85624363)
-[![License](https://poser.pugx.org/laravel-enso/measurement-units/license)](https://packagist.org/packages/laravel-enso/measurement-units)
-[![Total Downloads](https://poser.pugx.org/laravel-enso/measurement-units/downloads)](https://packagist.org/packages/laravel-enso/measurement-units)
-[![Latest Stable Version](https://poser.pugx.org/laravel-enso/measurement-units/version)](https://packagist.org/packages/laravel-enso/measurement-units)
+[![License](https://poser.pugx.org/laravel-liberu/measurement-units/license)](https://packagist.org/packages/laravel-liberu/measurement-units)
+[![Total Downloads](https://poser.pugx.org/laravel-liberu/measurement-units/downloads)](https://packagist.org/packages/laravel-liberu/measurement-units)
+[![Latest Stable Version](https://poser.pugx.org/laravel-liberu/measurement-units/version)](https://packagist.org/packages/laravel-liberu/measurement-units)
 
-Measurement units dependency for [Laravel Liberu](https://github.com/laravel-enso/enso)
+Measurement units dependency for [Laravel Liberu](https://github.com/laravel-liberu/liberu)
 
-This package works exclusively within the [Liberu](https://github.com/laravel-enso/enso) ecosystem.
+This package works exclusively within the [Liberu](https://github.com/laravel-liberu/liberu) ecosystem.
 
-The front end assets that utilize this api are present in the [measurement-units](https://github.com/enso-ui/measurement-units) package.
+The front end assets that utilize this api are present in the [measurement-units](https://github.com/liberu-ui/measurement-units) package.
 
 For live examples and demos, you may visit [liberu.co.uk](https://www.liberu.co.uk)
 
