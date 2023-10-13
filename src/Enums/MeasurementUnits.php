@@ -1,8 +1,8 @@
 <?php
 
-namespace LaravelEnso\MeasurementUnits\Enums;
+namespace LaravelLiberu\MeasurementUnits\Enums;
 
-use LaravelEnso\Enums\Services\Enum;
+use LaravelLiberu\Enums\Services\Enum;
 
 class MeasurementUnits extends Enum
 {

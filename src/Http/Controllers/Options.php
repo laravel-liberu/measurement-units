@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\MeasurementUnits\Http\Controllers;
+namespace LaravelLiberu\MeasurementUnits\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use LaravelEnso\MeasurementUnits\Models\MeasurementUnit;
-use LaravelEnso\Select\Traits\OptionsBuilder;
+use LaravelLiberu\MeasurementUnits\Models\MeasurementUnit;
+use LaravelLiberu\Select\Traits\OptionsBuilder;
 
 class Options extends Controller
 {

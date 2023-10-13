@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\MeasurementUnits\Http\Controllers;
+namespace LaravelLiberu\MeasurementUnits\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use LaravelEnso\MeasurementUnits\Http\Requests\ValidateMeasurementUnit as Request;
-use LaravelEnso\MeasurementUnits\Models\MeasurementUnit;
+use LaravelLiberu\MeasurementUnits\Http\Requests\ValidateMeasurementUnit as Request;
+use LaravelLiberu\MeasurementUnits\Models\MeasurementUnit;
 
 class Update extends Controller
 {

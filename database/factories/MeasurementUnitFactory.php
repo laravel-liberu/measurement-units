@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\MeasurementUnits\Database\Factories;
+namespace LaravelLiberu\MeasurementUnits\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use LaravelEnso\MeasurementUnits\Models\MeasurementUnit;
+use LaravelLiberu\MeasurementUnits\Models\MeasurementUnit;
 
 class MeasurementUnitFactory extends Factory
 {

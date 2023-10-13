@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\MeasurementUnits;
+namespace LaravelLiberu\MeasurementUnits;
 
 use Illuminate\Support\ServiceProvider;
 

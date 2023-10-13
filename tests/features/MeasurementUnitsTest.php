@@ -1,12 +1,12 @@
 <?php
 
 use Illuminate\Foundation\Testing\RefreshDatabase;
-use LaravelEnso\Forms\TestTraits\CreateForm;
-use LaravelEnso\Forms\TestTraits\DestroyForm;
-use LaravelEnso\Forms\TestTraits\EditForm;
-use LaravelEnso\MeasurementUnits\Models\MeasurementUnit;
-use LaravelEnso\Tables\Traits\Tests\Datatable;
-use LaravelEnso\Users\Models\User;
+use LaravelLiberu\Forms\TestTraits\CreateForm;
+use LaravelLiberu\Forms\TestTraits\DestroyForm;
+use LaravelLiberu\Forms\TestTraits\EditForm;
+use LaravelLiberu\MeasurementUnits\Models\MeasurementUnit;
+use LaravelLiberu\Tables\Traits\Tests\Datatable;
+use LaravelLiberu\Users\Models\User;
 use Tests\TestCase;
 
 class MeasurementUnitsTest extends TestCase

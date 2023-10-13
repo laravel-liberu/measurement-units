@@ -33,15 +33,15 @@
     },
     "autoload": {
         "psr-4": {
-            "LaravelEnso\\MeasurementUnits\\": "src/",
-            "LaravelEnso\\MeasurementUnits\\Database\\Factories\\": "database/factories/",
-            "LaravelEnso\\MeasurementUnits\\Database\\Seeders\\": "database/seeders/"
+            "LaravelLiberu\\MeasurementUnits\\": "src/",
+            "LaravelLiberu\\MeasurementUnits\\Database\\Factories\\": "database/factories/",
+            "LaravelLiberu\\MeasurementUnits\\Database\\Seeders\\": "database/seeders/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "LaravelEnso\\MeasurementUnits\\AppServiceProvider"
+                "LaravelLiberu\\MeasurementUnits\\AppServiceProvider"
             ]
         }
     },

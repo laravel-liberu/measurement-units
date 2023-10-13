@@ -1,15 +1,15 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use LaravelEnso\MeasurementUnits\Http\Controllers\Create;
-use LaravelEnso\MeasurementUnits\Http\Controllers\Destroy;
-use LaravelEnso\MeasurementUnits\Http\Controllers\Edit;
-use LaravelEnso\MeasurementUnits\Http\Controllers\ExportExcel;
-use LaravelEnso\MeasurementUnits\Http\Controllers\InitTable;
-use LaravelEnso\MeasurementUnits\Http\Controllers\Options;
-use LaravelEnso\MeasurementUnits\Http\Controllers\Store;
-use LaravelEnso\MeasurementUnits\Http\Controllers\TableData;
-use LaravelEnso\MeasurementUnits\Http\Controllers\Update;
+use LaravelLiberu\MeasurementUnits\Http\Controllers\Create;
+use LaravelLiberu\MeasurementUnits\Http\Controllers\Destroy;
+use LaravelLiberu\MeasurementUnits\Http\Controllers\Edit;
+use LaravelLiberu\MeasurementUnits\Http\Controllers\ExportExcel;
+use LaravelLiberu\MeasurementUnits\Http\Controllers\InitTable;
+use LaravelLiberu\MeasurementUnits\Http\Controllers\Options;
+use LaravelLiberu\MeasurementUnits\Http\Controllers\Store;
+use LaravelLiberu\MeasurementUnits\Http\Controllers\TableData;
+use LaravelLiberu\MeasurementUnits\Http\Controllers\Update;
 
 Route::middleware(['api', 'auth', 'core'])
     ->group(function () {

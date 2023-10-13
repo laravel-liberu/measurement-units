@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\MeasurementUnits\Tables\Builders;
+namespace LaravelLiberu\MeasurementUnits\Tables\Builders;
 
 use Illuminate\Database\Eloquent\Builder;
-use LaravelEnso\MeasurementUnits\Models\MeasurementUnit as Model;
-use LaravelEnso\Tables\Contracts\Table;
+use LaravelLiberu\MeasurementUnits\Models\MeasurementUnit as Model;
+use LaravelLiberu\Tables\Contracts\Table;
 
 class MeasurementUnit implements Table
 {

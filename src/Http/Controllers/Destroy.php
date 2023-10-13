@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\MeasurementUnits\Http\Controllers;
+namespace LaravelLiberu\MeasurementUnits\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use LaravelEnso\MeasurementUnits\Models\MeasurementUnit;
+use LaravelLiberu\MeasurementUnits\Models\MeasurementUnit;
 
 class Destroy extends Controller
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\MeasurementUnits\Database\Seeders;
+namespace LaravelLiberu\MeasurementUnits\Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Collection;
-use LaravelEnso\MeasurementUnits\Models\MeasurementUnit;
+use LaravelLiberu\MeasurementUnits\Models\MeasurementUnit;
 
 class MeasurementUnitsSeeder extends Seeder
 {
